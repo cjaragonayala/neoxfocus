@@ -1,0 +1,13 @@
+= Introduction to Global Knowledge
+
+== Mission
+
+Provide an integral place to look for uptodate knowledge of different disciplines. 
+
+== Disciplines
+
+. Medicine
+. Computer Science
+. Learning
+. Maths
+. Phylosophy

@@ -1,0 +1,6 @@
+site: 
+  title: Global Knowledge
+  url: https://globalk.edu
+  start_page: globalk::index.adoc
+
+

@@ -1,0 +1,9 @@
+name: name-comp
+version: '1.0'
+title: Nombre del componente libre
+asciidoc: 
+  attributes:
+    page-level: Advanced
+nav:
+- modules/ROOT/nav.adoc
+
