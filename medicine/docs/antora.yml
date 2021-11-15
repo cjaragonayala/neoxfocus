@@ -1,0 +1,8 @@
+name: medicine
+version: '1.0'
+title: Medical Knowledge
+asciidoc:
+    attributes:
+          page-level: Advanced
+          nav:
+            - modules/ROOT/nav.adoc
