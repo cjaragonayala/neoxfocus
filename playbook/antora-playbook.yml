@@ -4,10 +4,11 @@ site:
   start_page: globalk::index.adoc
 content:
   sources:
-    - url: https://github.com/cjaragonayala/globalk.git
-      start_path: globalk
-    - url: https://github.com/cjaragonayala/globalk.git
-      start_path: medicine
+  - url: https://github.com/cjaragonayala/globalk.git
+    branches: master
+    start_paths:
+      - globalk 
+      - medicine
 ui:
   bundle: 
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
@@ -18,6 +19,6 @@ ui:
       static_files: [ .nojekyll ]
   - path: .nojekyll
 output:
-  dir: ~/Websites/globalk/
+  dir: ~/Websites/antora-globalk/
 
 
