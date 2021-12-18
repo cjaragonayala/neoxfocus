@@ -1,0 +1,8 @@
+= Arch linux
+CJAA
+
+== XORG
+
+It is a display server.
+Requisite for GUI applications.
+

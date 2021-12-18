@@ -1,0 +1,30 @@
+= Introducción al aprendizaje
+Carlos J. Aragón-Ayala
+
+== Estrategia efectiva de aprendizaje
+
+Los pasos son:
+
+. Formular objetivos/competencias (Bloom revisado).
+.. Especificar los objetivos educacionales (mediano-corto plazo)
+.. Ubicarlos en tabla de taxonomía
+.. Valorar la necesidad de otros objetivos
+. Especificar la estrategia específica de aprendizaje.
+.. Definir descripción y localización de las actividades en la tabla
+. Elaborar métodos de evaluación.
+. Corroborar consistencia de los tres anteriores. 
+
+== Plantilla
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|Knowledge Dimension|Remember|Understand|Apply|Analyze|Evaluate|Create
+
+|Factual| | | | | |
+
+|Conceptual| | | | | |
+
+|Procedural| | | | | |
+
+|Metacognitive| | | | | |
+|===

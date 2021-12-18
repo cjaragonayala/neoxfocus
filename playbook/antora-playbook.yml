@@ -5,13 +5,18 @@ site:
 content:
   sources:
     - url: https://github.com/cjaragonayala/globalk.git
-      start_path: globalk/docs
+      start_path: globalk
     - url: https://github.com/cjaragonayala/globalk.git
-      start_path: medicine/docs
+      start_path: medicine
 ui:
   bundle: 
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
+  supplemental_files:
+  - path: ui.yml
+    contents: |
+      static_files: [ .nojekyll ]
+  - path: .nojekyll
 output:
   dir: ~/Websites/globalk/
 
