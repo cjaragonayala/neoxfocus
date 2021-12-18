@@ -6,9 +6,8 @@ content:
   sources:
   - url: https://github.com/cjaragonayala/globalk.git
     branches: master
-    start_paths:
-      - globalk 
-      - medicine
+    start_paths: k-*
+
 ui:
   bundle: 
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable

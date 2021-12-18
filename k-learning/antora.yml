@@ -1,6 +1,6 @@
-name: name-comp
+name: learning
 version: '1.0'
-title: Nombre del componente libre
+title: Advanced Learning
 asciidoc: 
   attributes:
     page-level: Advanced

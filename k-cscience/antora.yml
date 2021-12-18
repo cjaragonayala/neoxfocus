@@ -1,6 +1,6 @@
-name: name-comp
+name: csience
 version: '1.0'
-title: Nombre del componente libre
+title: Computer Science
 asciidoc: 
   attributes:
     page-level: Advanced
