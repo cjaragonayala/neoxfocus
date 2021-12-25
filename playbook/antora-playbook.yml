@@ -1,6 +1,6 @@
 site: 
   title: Global Knowledge
-  url: https://globalk.edu
+  url: https://cjaragonayala.github.io/globalk-website/globalk/
   start_page: globalk::index.adoc
 content:
   sources:
