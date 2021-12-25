@@ -1,0 +1,3 @@
+* xref:index.adoc[]
+* xref:how-learning-works.adoc[]
+* xref:types-knowledge.adoc[]
