@@ -1,0 +1,60 @@
+= Aplicación práctica HOW LEARNING WORKS
+Author Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+
+= Resumen práctico (algoritmo)
+
+. 1ra lectura rápida extrayendo principales conocimientos (factuales, 
+conceptuales, procedimentales)
+. Revisar lo extraido y buscar conocimiento previo e integración, estableciendo
+relaciones. Verificar si hay dudas sobre lo que uno sabe.
+. Lectura más detenida y extrae preguntas que favorezcan el recuerdo (why?)
+
+= 1er principio
+
+* aprender bien los fundamentos (prior knowledge can help or hinder learning)
+* asegurarse de que tu conocimiento previo es ACTIVO (lo tienes y lo conectas),
+SUFICIENTE (lo tienes completo), APROPIADO (para el contexto), EXACTO (está
+libre de errores). 
+* activa concientemente conocimiento previo al aprender
+* cuando quieras memorizar hechos pregúntate el por qué o cómo (interrogación 
+elaborativa). 
+* se conciente que no es lo mismo el saber qué (conocimiento declarativo), 
+que el saber cómo o saber cuándo (conocimiento procedimental). Saber uno no
+implica saber el otro. Ten en mente cuál de ambos es importante saber. 
+* para lidiar y evitar conocimiento previo inapropiado:
+** ten clara las condiciones y contextos de aplicabilidad
+** cuando aprendas contenido abstracto busca ejemplos concretos
+** ten cuidado con las analogías (identifica similitudes y diferencias)
+* para lidiar con conocimiento previo inexacto
+** revisa tus definiciones o conocimientos y verifica que sean apropiados
+(desaprende, haz como si no supieras nada y construye desde cero)
+* sé conciente de si respecto a un conocimiento puedes:
+** reconocerlo (lo has escuchado?)
+** definirlo (conoc. factual)
+** explicarlo (conoc. conceptual)
+** aplicarlo (conoc. procedimental), para resolver problemas
+* frente a un conocimiento realiza una tormenta de ideas utilizando
+preguntas dependiendo del tipo de conocimiento (a qué asocias x?, si pasa Y
+qué harías o por dónde empezarías?, 
+* realiza un mapa conceptual de un tema antes de empezar a estudiarlo (
+identificando conceptos y relaciones)
+* busca en diferentes fuentes el conocimiento para poder encontrar 
+asociaciones que no estén en uno o, relaciones que no se pueden ver a simple
+vista.
+* busca analogías de lo que quieras aprender para facilitarlo.
+* revisa qué necesitas saber previamente para entender algo nuevo, y 
+apréndelo primero
+* haz predicciones con lo que sabes y verifica si está bien
+* trata de explicar el conocimiento
+* busca heurísticos para el conocimiento que estás aprendiendo
+* familiarizate con los terminos de la disciplina que estás estudiando
+
+== Principio 2: Organización del conocimiento
+
+* Busca establecer la mayor cantidad/densidad de conexiones posibles de lo que 
+quieras aprender (jerarquicas o cross-references). 
+* Busca organizar tu conocimiento/aprendizaje de una forma que facilite
+el rendimiento en las actividades o tareas en que se espera aplicarlo.
+* Establece un sistema de aprendizaje que te permita trackear los 
+conceptos que vas aprendiendo y trata siempre de buscar conexiones actuales
+y pasadas. Evita aprender aisladamente. 

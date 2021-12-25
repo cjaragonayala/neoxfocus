@@ -1,30 +1,63 @@
 = Introducción al aprendizaje
 Carlos J. Aragón-Ayala
 
-== Estrategia efectiva de aprendizaje
+== Resumen de Estrategia efectiva de aprendizaje
 
-Los pasos son:
+Los pasos interrelacionados y de necessaria alineación son:
 
-. Formular objetivos/competencias (Bloom revisado).
-.. Especificar los objetivos educacionales (mediano-corto plazo)
-.. Ubicarlos en tabla de taxonomía
-.. Valorar la necesidad de otros objetivos
-. Especificar la estrategia específica de aprendizaje.
-.. Definir descripción y localización de las actividades en la tabla
-. Elaborar métodos de evaluación.
-. Corroborar consistencia de los tres anteriores. 
+. Producir objetivos educacionales: enfocados a la competencia esperada final y relevante, ajustados según circunstancias, incluyendo subyacentes
+.. A priori: basándote de recomendaciones o interes personales
+... Buscar estándares educacionales internacionales, silabus, curriculos, planes de estudio
+... Buscar materiales dependientes de nivel de conociminetos (principiantes, intermedios, avanzados)
+.. A posteriori: si tienes un material en frente
+... Estructurar específicamente el material de aprendizaje: Requiere lectura "veloz" del material (skipping)
+... Reconocer limitaciones de conocimiento previo sobre material:   
+. Producir evaluaciones de objetivos educacionales, analizar necesidad de subyacentes
+. Usar estrategias de aprendizaje dependiendo del tipo de conocimiento, previa verificación de criterios de uso
 
-== Plantilla
+== Explicación de la Estrategia efectiva de aprendizaje
 
-[cols="1,1,1,1,1,1,1"]
-|===
-|Knowledge Dimension|Remember|Understand|Apply|Analyze|Evaluate|Create
+== Anexo 1: Tipos de conocimiento
 
-|Factual| | | | | |
+. Terminología
+. Detalles y elementos específicos
 
-|Conceptual| | | | | |
+. Categorías y clasificaciones
+. Principios y generalizaciones
+. Teorías, modelos y estructuras
 
-|Procedural| | | | | |
+. Habilidades y algoritmos específicos del área
+. Técnicas y métodos específicos del área
+. Criterios para determinar cuando usar el procedimiento
 
-|Metacognitive| | | | | |
-|===
+. Estrategias de aprendizaje
+. Procesos cognitivos
+. Autoconocimiento
+
+== Anexo 2: Procesos de conocimiento
+
+. Reconocer: 
+. Evocar
+
+. Interpretar
+. Ejemplificar
+. Clasificar
+. Resumir
+. Inferir
+. Comparar
+. Explicar
+
+. Ejecutar
+. Implementar
+
+. Diferenciar
+. Organizar
+. Atribuir
+
+. Verificar
+. Criticar
+
+. Generar
+. Planificar
+. Producir
+

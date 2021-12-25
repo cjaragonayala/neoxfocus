@@ -1,0 +1,4 @@
+= Types of knowledge
+
+. Facts = specific details and elements, evidence
+.. topics
