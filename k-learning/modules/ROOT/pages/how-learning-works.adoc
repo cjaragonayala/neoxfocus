@@ -1,7 +1,7 @@
 = Aplicación práctica HOW LEARNING WORKS
 Author Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
 
-= Resumen práctico (algoritmo)
+== Resumen práctico (algoritmo)
 
 . 1ra lectura rápida extrayendo principales conocimientos (factuales, 
 conceptuales, procedimentales)
@@ -9,7 +9,7 @@ conceptuales, procedimentales)
 relaciones. Verificar si hay dudas sobre lo que uno sabe.
 . Lectura más detenida y extrae preguntas que favorezcan el recuerdo (why?)
 
-= 1er principio
+== 1er principio
 
 * aprender bien los fundamentos (prior knowledge can help or hinder learning)
 * asegurarse de que tu conocimiento previo es ACTIVO (lo tienes y lo conectas),
