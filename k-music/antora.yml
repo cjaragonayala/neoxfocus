@@ -1,6 +1,6 @@
-name: name-comp
+name: k-music
 version: '1.0'
-title: title-comp
+title: Musical Knowledge
 asciidoc: 
   attributes:
     page-level: Advanced

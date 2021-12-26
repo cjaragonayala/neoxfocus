@@ -1,2 +1,3 @@
 * xref:index.adoc[]
 * xref:epidemiology-silabus.adoc[]
+* xref:design-studies.adoc[]
