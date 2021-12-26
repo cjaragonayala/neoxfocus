@@ -1,0 +1,9 @@
+name: k-research
+version: '1.0'
+title: Research Knowledge
+asciidoc: 
+  attributes:
+    page-level: Advanced
+nav:
+- modules/ROOT/nav.adoc
+
