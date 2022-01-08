@@ -1,0 +1,21 @@
+= Zotero
+Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+
+== Introduction
+
+
+== Plugin
+
+* Zotero DOI Manager
+* Zotero Citation Counts Manager
+* ZotFile
+* Zutilo
+* Better BibTex
+
+== Workflow
+
+. Estrategia de búsqueda y screening
+. Descargar pdf en carpeta "references" específica para revisarlos a detalle
+. Eliminar los irrelevantes
+. Agregar referencia en zotero y linkearlo
+. Organizarlos: colección "Comparables" (para discusión), resto con "tags"
