@@ -13,9 +13,7 @@ Can be regular book (chapters and special sections) o multi-part book (parts con
 * manpage: extended header options for manpage
 * inline: to use asciidoc format in order to transform it to other formats (as HTML)
 
-Document structure::
-It is hierarchical (tree structure).
-
+Document structure:: It is hierarchical (tree structure).
 * Header
 ** Title
 ** Document-wide configuration
