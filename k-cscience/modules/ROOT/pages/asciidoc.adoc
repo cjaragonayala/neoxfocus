@@ -1,0 +1,34 @@
+= Asciidoc
+Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+
+Asciidoc is a plain text writing format, using a line-oriented language.
+
+== Documento asciidoc
+
+Puede ser de varios tipos (doctype): especifica estructura del documento.
+
+* article (default)
+* book: multiple 0-level sections. 
+Can be regular book (chapters and special sections) o multi-part book (parts contain chap and special section)
+* manpage: extended header options for manpage
+* inline: to use asciidoc format in order to transform it to other formats (as HTML)
+
+Document structure::
+It is hierarchical (tree structure).
+
+* Header
+** Title
+** Document-wide configuration
+* Blocks
+
+
+Lines::
+Text separated by newline characters or the boundary of the document.
+A line may also be empty. This may or may not be relevant to the syntax.
+Asciidoc syntax aspects usually takes up  a whole line.
+A line = 2 or more lines if a backslash is placed at the end of a line.
+
+Blocks::
+Each block is usually surrounded by empty lines.
+Blocks can have metadata: attributes, anchor or title.
+Block metadata is placed directly adjacent to and above the block.
