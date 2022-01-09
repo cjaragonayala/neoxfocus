@@ -21,7 +21,6 @@ It is hierarchical (tree structure).
 ** Document-wide configuration
 * Blocks
 
-
 Lines::
 Text separated by newline characters or the boundary of the document.
 A line may also be empty. This may or may not be relevant to the syntax.
@@ -30,5 +29,6 @@ A line = 2 or more lines if a backslash is placed at the end of a line.
 
 Blocks::
 Each block is usually surrounded by empty lines.
-Blocks can have metadata: attributes, anchor or title.
-Block metadata is placed directly adjacent to and above the block.
+Blocks can have lines of metadata: attributes, anchor or title.
+The block metadata is placed directly adjacent to and above the block.
+Blocks can be nested depending on their type.
