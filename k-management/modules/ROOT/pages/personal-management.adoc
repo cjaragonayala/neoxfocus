@@ -1,0 +1,6 @@
+= Personal Management
+Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+
+== Learning Objectives
+
+. 
