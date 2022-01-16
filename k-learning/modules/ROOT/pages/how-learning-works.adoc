@@ -1,5 +1,5 @@
 = Aplicación práctica HOW LEARNING WORKS
-Author Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
 
 == Resumen práctico (algoritmo)
 

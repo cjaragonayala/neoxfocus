@@ -1,6 +1,61 @@
 = Personal Management
 Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
 
-== Learning Objectives
+== High-level learning Objectives
+
+. Develop a personal workflow to achieve any objective, and integrate all these objectives in an effective and efficient manner.
+
+== Low-level learning Objectives
 
 . 
+
+== Learning Material
+
+== Mission
+
+The purpose of your life. 
+What is your reason to live?
+
+To have well-being
+
+Well-being::
+a person feeling and thinking his or her life is desirable regardless of how others see it.
+
+== The strategy
+
+=== Vision
+
+A long term (~ 10 years) future state you want to be in that evidences the fulfillment of your mission.
+
+To fulfill well-being you can work on the following life domains:
+
+. Health (physical, mental)
+. Resources (money, things)
+. Social (family, friendship, love)
+. Reputation (academical, social)
+. Knowledge (all levels)
+. Fun (videogames, youtube)
+. Goals (dreams, conscious desires)
+. Philanthrophy 
+
+To work on these domains you can evaluate your current life in each of them.
+Usually a slogan (motivational, short, inspirational).
+ 
+=== Long-term objectives
+
+Short term (~ 5 years) aims. 
+Focus on the gap between your current asessment and vision.
+To understand how to contribute to erasing these gaps. 
+
+=== Short-term objectives
+
+Operational (~ 1 year) aims.
+Realistic (small is best than more and more).
+Integral (linked to vission and long-term objectives).
+Razonable (justify why these aims are important and not anothers one).
+
+== Implementing the strategy 
+
+== Review the progress
+
+== Refining the strategy

@@ -1,0 +1,10 @@
+= Method to learn anything
+Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+
+You must follow these steps:
+
+. Write the set of high level learning objectives. 
+. Review good information sources.
+. Specify the low-level (operational) learning objectives (Bloom's Taxonomy)
+. Elaborate a good learning material. 
+. Elaborate a good learning assessment.

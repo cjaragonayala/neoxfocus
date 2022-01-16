@@ -2,3 +2,4 @@
 * xref:epidemiology-silabus.adoc[]
 * xref:design-studies.adoc[]
 * xref:zotero.adoc[]
+* xref:integral-workflow-of-research.adoc[]
