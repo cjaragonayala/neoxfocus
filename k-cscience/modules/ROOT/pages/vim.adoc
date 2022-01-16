@@ -1,0 +1,18 @@
+= Vim
+
+== Install vim plugins
+
+After install vim-plug:
+
+. Edit '.vimrc' and add the name of source between call end/start.
+. Restar vim session
+. Execute ':PlugInstall' in a vim session
+. You're done!
+
+== Using macros
+
+. Type q (to start record)
+. Type <macro-name>
+. Do the steps to be recorded
+. Type q (to end record)
+. To play a macro: type <n-times-of-plays>@<macro-name> (time of plays is optional)

@@ -27,6 +27,17 @@ A line = 2 or more lines if a backslash is placed at the end of a line.
 
 Blocks::
 Each block is usually surrounded by empty lines.
-Blocks can have lines of metadata: attributes, anchor or title.
+Blocks can have lines of metadata: attributes, anchor or
+title.
 The block metadata is placed directly adjacent to and above the block.
 Blocks can be nested depending on their type.
+
+Text::
+Surrounded by markers, delimiters, metadata.
+Text is subject to substitutions in different levels.
+Normal text: all kind of possible substitutions.
+Verbatim text: minimal substitutions.
+Raw text: not substitutions at all.
+
+Asciidoc processor::
+It is a program that converts asciidoc document to another format.
