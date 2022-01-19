@@ -1,3 +1,2 @@
 * xref:index.adoc[]
 * xref:personal-management.adoc[]
-* xref:personal-management.adoc[]

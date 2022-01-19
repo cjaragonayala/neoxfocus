@@ -1,15 +1,7 @@
 = Personal Management
 Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
 
-== High-level learning Objectives
-
-. Develop a personal workflow to achieve any objective, and integrate all these objectives in an effective and efficient manner.
-
-== Low-level learning Objectives
-
-. 
-
-== Learning Material
+. To develop a personal system to achieve any objective, and integrate all these objectives in an effective and efficient manner.
 
 == Mission
 
@@ -54,8 +46,29 @@ Realistic (small is best than more and more).
 Integral (linked to vission and long-term objectives).
 Razonable (justify why these aims are important and not anothers one).
 
-== Implementing the strategy 
+== The tactic 
+
+All (departments/individuals)need SMART actions.
+Optimize the actions through review by specialists (feedback).
+Actions (departamental/individual) need to be aligned with the strategy.
+Horizontal coordination across departments.
+Assign responsabilites (direct & supporting)
+Integral alignment review (SPADES Matrix)
+Define control mechanisms (standarized measurement in graphical view)
+Automatic measures (balance, not to overwhelm)
+Not to punish when the plan is not fulfilled (identify the root cause and offers help)
 
 == Review the progress
+
+Define a frequency.
+Adjust the frequency based on situation (normal, problems, etc)
+Use main metrics (other metrics are just operational and not for interest in high level, except when trying to obtain information about problems root causes)
+Simple and standard mechanism of report/review
+Metrics self-diagnosticable by "workers" (trusty environment)
+PDCA (plan-do-check-act): Call for action when something is founded.
+Problems as opportunities to enhance itself :v.
+THERE ARE NOT BAD PEOPLE, JUST BAD PROCESSES (NOT TO PUNISH).
+Open to new ideas or situation (mantein the plan/tactic flexible)
+Less formal than monitorizing plan (tactic)
 
 == Refining the strategy
