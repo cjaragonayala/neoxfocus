@@ -45,4 +45,23 @@ After install vim-plug:
 
 == How to switch to a different buffer
 
- :b <id buffer or unique part name>
+ :b<id buffer or unique part name>
+
+You can use tab for completion names
+
+Also to go for the next buffer try `+:bn+` (or with unimpaired plugin use `+]b+`) and for the previous one try `+bp+` (`+[b+`)
+
+== How to delete a buffer
+
+ :bd
+
+== How to cycle through files
+
+With unimpaired plugin
+
+ ]f
+ [f
+
+== How to open/create-a-new-file within vim session
+
+ :e <relative path of pwd>

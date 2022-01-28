@@ -3,3 +3,6 @@
 We are presenting a lot of useful resources in dota 2.
 
 * https://dota2.fandom.com/wiki/Dota_2_Wiki[Dota 2 Wiki]
+* https://gosu.ai/blog/dota2/how-to-play-dota-2-from-beginner-to-a-pro-player-the-definitive-guide/[How to play Dota 2: from Beginner to a Pro player - the definitive guide]
+* https://www.dotafire.com/[Dota Fire]
+* https://gamerzclass.com/news/category/dota-2/dota-2-guides/[Masterclass: Dota 2 Guides]
