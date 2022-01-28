@@ -1,0 +1,2 @@
+* xref:index.adoc[]
+* xref:dota2-resources.adoc[]

@@ -1,0 +1,9 @@
+name: k-dota2
+version: '1.0'
+title: Dota 2
+asciidoc: 
+  attributes:
+    page-level: Advanced
+nav:
+- modules/ROOT/nav.adoc
+

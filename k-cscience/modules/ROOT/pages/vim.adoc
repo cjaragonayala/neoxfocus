@@ -1,4 +1,5 @@
 = Vim
+:toc:
 
 == Install vim plugins
 
@@ -16,3 +17,32 @@ After install vim-plug:
 . Do the steps to be recorded
 . Type q (to end record)
 . To play a macro: type <n-times-of-plays>@<macro-name> (time of plays is optional)
+
+== What is behind a plugin? Where are they?
+
+. We need a directory to store plugins.
+. Every time you open a vim session it is needed to load plugins, so add a line of code in vimrc for that ("packloadall")
+. 
+
+== How can you organize your workspace?
+
+. Windows
+. Tabs
+. Buffers
+. Folds
+
+== How to see a list of current buffers?
+
+ :ls
+
+== Parts of a buffer list
+
+<id buffer> %[if present = buffer in current window]a[if present, buffer is active] <filename> line <current cursor position>
+
+== How to open another file
+
+ :e <filename-path>
+
+== How to switch to a different buffer
+
+ :b <id buffer or unique part name>
