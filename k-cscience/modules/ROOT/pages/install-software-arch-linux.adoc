@@ -1,0 +1,8 @@
+= How to install software manually in Arch Linux
+
+. Si tienes que ejecutar un archivo bin, primero cambiale su modo "chmod a+x file-path"
+. Luego ejecutalo colocando su path en la terminal
+. Si es software con carpeta única de archivos (solitaria), colócala en el directorio /opt/software-name
+. En esa carpeta se entiende que estará el binario (ejecutable)
+. Para accederlo desde el drun, crea un archivo *.desktop en "/usr/share/applications/", usando como plantilla algunos de los ya creados
+. En el item "Exec" coloca el path completo del binario

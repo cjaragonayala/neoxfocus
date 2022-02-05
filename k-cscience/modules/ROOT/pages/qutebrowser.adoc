@@ -1,0 +1,7 @@
+= Qutebrowser
+
+== How to open a private window?
+
+ :open -p
+
+ qutebrowser -p

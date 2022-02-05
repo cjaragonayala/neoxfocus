@@ -65,3 +65,27 @@ With unimpaired plugin
 == How to open/create-a-new-file within vim session
 
  :e <relative path of pwd>
+
+== How to move lines up and down
+
+With unimpaired plugin, use the mappings
+
+ [e
+
+ ]e
+
+== How to split horizontally a window
+
+ :sp <file-path>
+
+== How to set/unset relative/absolute line number
+
+To set & unset absolute line number
+
+:set nu[mber]
+:set nonu
+
+To set & unset relative line number
+
+:set rnu
+:set nornu
