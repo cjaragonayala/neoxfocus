@@ -1,0 +1,16 @@
+= Epidemiological Research
+Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+:toc:
+
+== Summary
+
+* Research can be epidemiological (population + rates) or clinical (individual + rate-based probabilities).
+* General definitions of epidemiology are "incorrect"?
+* Miettinen defines essentially epidemiological research as "applied".
+* "Applied" means research to advance knowledge-base of community medicine (community-oriented)
+*  Gnosis (dia, etio, prog) need specific knowledge-base according to its type.
+* This research can advance knowledge-base for dia, etio, prognosis in community medicine.
+* 
+
+
+

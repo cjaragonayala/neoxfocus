@@ -1,0 +1,9 @@
+name: k-languages
+version: '1.0'
+title: Languages
+asciidoc: 
+  attributes:
+    page-level: Advanced
+nav:
+- modules/ROOT/nav.adoc
+
