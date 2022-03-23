@@ -6,4 +6,5 @@ asciidoc:
     page-level: Advanced
 nav:
 - modules/ROOT/nav.adoc
+- modules/english/nav.adoc
 
