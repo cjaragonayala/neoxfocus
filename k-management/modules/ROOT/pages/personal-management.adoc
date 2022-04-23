@@ -6,6 +6,7 @@ Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
 Bueno, la idea es plantear preguntas y tratar de responderlas, como si de un objetivo se tratase:
 
 . Cómo puede representarse el pensamiento humano? Que permita plasmarlo y luego repasarlo en forma más eficiente que una separación en "cards".
+. This is another test. Come on. work!!!!
 
 == Mission
 
