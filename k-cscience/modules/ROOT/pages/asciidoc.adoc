@@ -3,6 +3,13 @@ Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
 
 Asciidoc is a plain text writing format, using a line-oriented language.
 
+++++
+<p><span id="replaceMe">Sample content</span> replaced by Javascript</p>
+<script>
+document.getElementById('replaceMe').innerHTML = 'New content!'
+</script>
+++++
+
 == Documento asciidoc
 
 Puede ser de varios tipos (doctype): especifica estructura del documento.
