@@ -5,6 +5,8 @@ Asciidoc is a plain text writing format, using a line-oriented language.
 
 Hola amigos
 
+SI ESTO FUNCIONA, SOY GOD!!!!
+
 == Documento asciidoc
 
 Puede ser de varios tipos (doctype): especifica estructura del documento.
