@@ -2,6 +2,7 @@
 Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
 
 Asciidoc is a plain text writing format, using a line-oriented language.
+
 Hola amigos
 
 == Documento asciidoc
