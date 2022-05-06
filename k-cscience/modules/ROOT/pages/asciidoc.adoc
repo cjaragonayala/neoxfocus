@@ -14,46 +14,22 @@ PADRE DE TODOS!!
 asdadf
 
 ++++
-<script type="importmap">
-  {
-    "imports": {
-      "vue": "https://unpkg.com/vue@3/dist/vue.esm-browser.js"
+
+<script src="https://unpkg.com/vue@3"></script>
+
+<div id="app">{{ message }}</div>
+
+<script>
+  const { createApp } = Vue
+
+  createApp({
+    data() {
+      return {
+        message: 'Hello Vue!'
+      }
     }
-  }
+  }).mount('#app')
 </script>
-
-<script type="module">
-import { createApp, ref } from 'vue'
-
-createApp({
-  setup() {
-    const c = ref(0)
-    const f = ref(32)
-
-    function setC(e, v = +e.target.value) {
-      c.value = v
-      f.value = v * (9 / 5) + 32
-    }
-
-    function setF(e, v = +e.target.value) {
-      f.value = v
-      c.value = (v - 32) * (5 / 9)
-    }
-
-    return {
-      c,
-      f,
-      setC,
-      setF
-    }
-  }
-}).mount('#app')
-</script>
-
-<div id="app">
-  <input type="number" :value="c" @change="setC"> Celsius =
-  <input type="number" :value="f" @change="setF"> Fahrenheit
-</div>
 
 ++++
 
