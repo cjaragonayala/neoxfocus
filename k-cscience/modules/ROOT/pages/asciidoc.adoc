@@ -14,44 +14,28 @@ PADRE DE TODOS!!
 asdadf
 
 ++++
-
-<script src="https://unpkg.com/vue@3"></script>
-
-<div id="app">
-  <input type="number" :value="c" @change="setC"> Celsius =
-  <input type="number" :value="f" @change="setF"> Fahrenheit
-</div>
-
-<script type="module">
-  const { createApp, ref } = Vue
-
-createApp({
-  setup() {
-    const c = ref(0)
-    const f = ref(32)
-
-    function setC(e, v = +e.target.value) {
-      c.value = v
-      f.value = v * (9 / 5) + 32
-    }
-
-    function setF(e, v = +e.target.value) {
-      f.value = v
-      c.value = (v - 32) * (5 / 9)
-    }
-
-    return {
-      c,
-      f,
-      setC,
-      setF
+<script type="importmap">
+  {
+    "imports": {
+      "vue": "https://unpkg.com/vue@3/dist/vue.esm-browser.js"
     }
   }
-}).mount('#app')
+</script>
 
-/script>
+<div id="app">{{ message }}</div>
 
-++++
+<script type="module">
+  import { createApp } from 'vue'
+
+  createApp({
+    data() {
+      return {
+        message: 'Hello Vue!'
+      }
+    }
+  }).mount('#app')
+</script>
++++
 
 == Documento asciidoc
 
