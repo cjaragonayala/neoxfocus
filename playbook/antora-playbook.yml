@@ -1,9 +1,9 @@
 site: 
-  title: Global Knowledge
-  start_page: globalk::index.adoc
+  title: NeoXfocus
+  start_page: neoxfocus::index.adoc
 content:
   sources:
-  - url: https://github.com/cjaragonayala/globalk.git
+  - url: https://github.com/cjaragonayala/neoxfocus.git
     branches: master
     start_paths: k-*
 
@@ -17,6 +17,6 @@ ui:
       static_files: [ .nojekyll ]
   - path: .nojekyll
 output:
-  dir: ~/Websites/antora-globalk/
+  dir: ~/Websites/neoxfocus/
 
 
