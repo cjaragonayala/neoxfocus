@@ -41,6 +41,7 @@ PADRE DE TODOS!!
   <input type="number" :value="f" @change="setF"> Fahrenheit
 </div>
 ++++
+
 == Documento asciidoc
 
 Puede ser de varios tipos (doctype): especifica estructura del documento.
