@@ -17,7 +17,9 @@ asdadf
 <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 
 
+<p>
     <py-script> print('Hello') </py-script>
+<p>
 
 
 
