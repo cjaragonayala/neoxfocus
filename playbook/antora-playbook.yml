@@ -17,6 +17,6 @@ ui:
         static_files: [ .nojekyll ]
   - path: .nojekyll
 output:
-  dir: ~/Websites/neoxfocus/
+  dir: ~/Websites/neoxfocus-website/
 
 
