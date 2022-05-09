@@ -14,7 +14,7 @@ ui:
   supplemental_files:
   - path: ui.yml
       contents: |
-        static_files: [ .nojekyll ]
+      static_files: [ .nojekyll ]
   - path: .nojekyll
 output:
   dir: ~/Websites/neoxfocus-website/
