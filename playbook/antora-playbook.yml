@@ -4,8 +4,8 @@ site:
 content:
   sources:
    - url: https://github.com/cjaragonayala/neoxfocus.git
-      branches: master
-      start_paths: k-*
+     branches: master
+     start_paths: k-*
 
 ui:
   bundle: 
