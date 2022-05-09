@@ -3,17 +3,17 @@ site:
   start_page: neoxfocus::index.adoc
 content:
   sources:
-   - url: https://github.com/cjaragonayala/neoxfocus.git
-     branches: master
-     start_paths: k-*
+  - url: https://github.com/cjaragonayala/neoxfocus.git
+    branches: master
+    start_paths: k-*
 
 ui:
   bundle: 
-  url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
-  snapshot: true
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
   supplemental_files:
   - path: ui.yml
-      contents: |
+    contents: |
       static_files: [ .nojekyll ]
   - path: .nojekyll
 output:
