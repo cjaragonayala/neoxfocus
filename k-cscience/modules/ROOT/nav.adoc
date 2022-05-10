@@ -2,3 +2,4 @@
 * xref:asciidoc.adoc[]
 * xref:vim.adoc[]
 * xref:install-software-arch-linux.adoc[]
+* xref:qutebrowser.adoc[]
