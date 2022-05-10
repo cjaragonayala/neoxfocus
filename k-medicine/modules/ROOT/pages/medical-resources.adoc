@@ -1,5 +1,6 @@
 = Medical Resources
 Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+v1.0, 5-9-2022
 :description: This is a place where you can find all the relevant medical resources to be a proficient good doctor.
 :toc:
 
