@@ -1,5 +1,8 @@
 = Medical Resources
+Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+:description: This is a place where you can find all the relevant medical resources to be a proficient good doctor.
+:toc:
 
 == YouTube Channels
 
-This is my channel
+This is the channel of {lastname}
