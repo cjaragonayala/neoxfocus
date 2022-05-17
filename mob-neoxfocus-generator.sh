@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 cd ~/Neoxfocus &&  git add . && git commit -m "Update" && git push origin master
 
