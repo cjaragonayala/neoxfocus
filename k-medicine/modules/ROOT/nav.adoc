@@ -1,2 +1,3 @@
 * xref:index.adoc[]
 * xref:medical-resources.adoc[]
+* xref:appendicitis.adoc[]
