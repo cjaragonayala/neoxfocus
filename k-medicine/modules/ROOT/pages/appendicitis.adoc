@@ -4,6 +4,8 @@ v1.0, 5-12-2022
 
 == What is appendicitis?
 
+Inflamation of cecal appendix.
+
 ++++
 
 <script src="//cdn.jsdelivr.net/npm/faunadb@latest/dist/faunadb.js"></script>
