@@ -1,9 +1,87 @@
 = Medical Resources
 Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
 v1.0, 5-9-2022
-:description: This is a place where you can find all the relevant medical resources to be a proficient good doctor.
 :toc:
 
-== YouTube Channels
+This is a place where you can find all the relevant medical resources to be a proficient good doctor.
 
-This is the channel of {lastname}
+== General-Comprehensive Resources
+
+* UpToDate
+* Dynamed
+* Best Practice BMJ
+* Medscape
+* Msd Manuals
+
+== Classifications
+
+Allergy
+Anesthesiology and Pain Management
+Cardiology
+Critical Care
+Dermatology
+Emergency Medicine
+Endocrinology
+Family Medicine
+Gastroenterology
+Geriatrics
+Gynecology
+Hematology
+Hospital Medicine
+Immunology
+Infectious Diseases
+Internal Medicine
+Nephrology
+Neurology
+Neurosurgery
+Obstetric Medicine
+Oncology
+Ophthalmology
+Oral Health
+Orthopedics and Sports Medicine
+Otolaryngology
+Palliative Care
+Pathology and Laboratory Medicine
+Pediatrics
+Physical Medicine and Rehabilitation
+Primary Care
+Psychiatry
+Pulmonary Medicine
+Radiology
+Rheumatology
+Sleep Medicine
+Surgery
+Urology
+
+Allergy and immunology
+Anaesthesiology
+Cardiology
+Cardiothoracic surgery
+Critical care medicine
+Dermatology
+Ear, nose, and throat
+Emergency medicine
+Endocrinology and metabolic disorders
+Gastroenterology and hepatology
+General surgery
+Genetics
+Geriatric medicine
+Haematology
+Health maintenance
+Infectious diseases
+Nephrology
+Neurology
+Neurosurgery
+Nutrition
+Obstetrics and gynaecology
+Oncology
+Ophthalmology
+Orthopaedics
+Paediatrics and adolescent medicine
+Palliative care
+Primary care
+Psychiatry
+Respiratory disorders
+Rheumatology
+Urology
+Vascular surgery

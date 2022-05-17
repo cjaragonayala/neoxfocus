@@ -1,0 +1,25 @@
+= Appendicitis
+Carlos J. Aragón-Ayala <cjaragonayala@gmail.com>
+v1.0, 5-12-2022
+
+== What is appendicitis?
+
+++++
+
+<script src="//cdn.jsdelivr.net/npm/faunadb@latest/dist/faunadb.js"></script>
+
+<script type="text/javascript">
+  var faunadb = window.faunadb
+  var q = faunadb.query
+  var client = new faunadb.Client({
+    secret: 'fnAEmYU8a5ACUDFxM3txyNZ90sgBIOM44KJinfjV',
+    domain: 'db.fauna.com', 
+  })
+  client.query(
+    q.ToDate('2018-06-06')
+  )
+  .then(function (res) { console.log('Result:', res) })
+  .catch(function (err) { console.log('Error:', err) })
+</script>
+
+++++
