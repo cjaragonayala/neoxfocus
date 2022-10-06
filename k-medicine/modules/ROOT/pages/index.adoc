@@ -4,7 +4,7 @@ This is a section to be a Pro Medical Doctor Globally
 
 Bye
 
-Vea <<Dolor-abdominal>>
+Vea <<Dolor abdominal>>
 Prueba, xd
 Prueba, xd
 Prueba, xd
@@ -31,4 +31,4 @@ Prueba, xd
 Prueba, xd
 Prueba, xd
 
-== Dolor-abdominal
+== Dolor abdominal
