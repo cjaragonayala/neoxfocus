@@ -1,4 +1,5 @@
 = Welcome to Medical Knowledge
+:toc:
 
 This is a section to be a Pro Medical Doctor Globally
 
@@ -32,3 +33,7 @@ Prueba, xd
 Prueba, xd
 
 == Dolor abdominal
+
+== Dolor diente
+
+== Dolor tórax
