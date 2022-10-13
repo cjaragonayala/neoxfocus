@@ -1,0 +1,19 @@
+= Governance of Portfolios, Programs and Projects: A summary
+
+== Key definitions
+
+Governance::
+Portfolio::
+Program::
+Project::
+Strategic initiatives::
+Organizational objectives::
+
+Principles::
+Guía el comportamiento sin ser demasiado específico
+Política::
+Basándose en los principios, se elaboran unas reglas (políticas) más concretas para guiar el comportamiento.
+
+== Questions
+
+
